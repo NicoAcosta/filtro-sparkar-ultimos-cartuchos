@@ -1,8 +1,8 @@
-# filtro-ultimos-cartuchos
+# ¿Qué kinga sos?
 
 Spark AR Studio
 
-Para Instagram y Facebook
+Filtro para Instagram y Facebook
 
 Personajes del programa Úlitmos Cartuchos - Vorterix
 
